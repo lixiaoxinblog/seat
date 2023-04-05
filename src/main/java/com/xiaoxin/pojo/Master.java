@@ -1,10 +1,14 @@
 package com.xiaoxin.pojo;
 
+import java.util.List;
+
 public class Master {
 
     private Integer id;
     private Integer row;
     private Integer col;
+
+    private List<Slave> slaveList;
 
     public Integer getId() {
         return id;
@@ -28,6 +32,14 @@ public class Master {
 
     public void setCol(Integer col) {
         this.col = col;
+    }
+
+    public List<Slave> getSlaveList() {
+        return slaveList;
+    }
+
+    public void setSlaveList(List<Slave> slaveList) {
+        this.slaveList = slaveList;
     }
 
     @Override

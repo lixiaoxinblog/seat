@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5499aead-7ebc-4585-bee7-b702ec10758b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxin/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxin/controller/MasterController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxin/mapper/MasterMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxin/pojo/Master.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxin/pojo/Slave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxin/service/MasterService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxin/service/impl/MasterServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/mapper/MasterMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxin/mapper/MasterMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxin/mapper/MasterMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxin/pojo/Master.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxin/pojo/Master.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaoxin/service/MasterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaoxin/service/MasterService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,12 +54,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "E:/code/java/seat",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "MavenSettings",
+    "spring.configuration.checksum": "554e4b55e8cc57f39f16f335b0a63825",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -105,7 +102,9 @@
       <option name="presentableId" value="Default" />
       <updated>1680486192596</updated>
       <workItem from="1680486193528" duration="74000" />
-      <workItem from="1680486276396" duration="4539000" />
+      <workItem from="1680486276396" duration="6834000" />
+      <workItem from="1680615396511" duration="15000" />
+      <workItem from="1680678943393" duration="313000" />
     </task>
     <servers />
   </component>

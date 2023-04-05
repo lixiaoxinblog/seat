@@ -36,3 +36,7 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+seat-ui/node_modules
+seat-ui/package.json
+seat-ui/package-lock.json

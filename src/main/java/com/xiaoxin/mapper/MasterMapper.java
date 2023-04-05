@@ -10,4 +10,7 @@ public interface MasterMapper {
     //根据ID获取主表信息
     public Master getMasterById(int id);
 
+    //新增主表
+    public int insertMaster(Master master);
+
 }
