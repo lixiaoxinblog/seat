@@ -7,8 +7,9 @@ public class Master {
     private Integer id;
     private Integer row;
     private Integer col;
-
     private List<Slave> slaveList;
+
+
 
     public Integer getId() {
         return id;

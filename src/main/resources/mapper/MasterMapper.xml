@@ -4,8 +4,8 @@
         "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <mapper namespace="com.xiaoxin.mapper.MasterMapper">
 
-    <resultMap id="MasterMap" type="com.xiaoxin.pojo.Master">
-        <id column="id" property="id"/>
+    <resultMap id="MasterMap" type="com.xiaoxi.pojo.Master">
+        <id column="id" property="id"/>n
         <result column="row" property="row"/>
         <result column="col" property="col"/>
     </resultMap>
